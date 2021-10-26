@@ -1,1 +1,2 @@
 Este es un documento del curso de Git y GitHub
+Este es el documento real
